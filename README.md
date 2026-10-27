@@ -5,8 +5,8 @@ Projeto de uma tela de login desenvolvido para praticar conceitos de desenvolvim
 ## 🖥️ Preview do projeto
 
 <p align="center">
-  <img src="img/preview" width="48%" alt="Tela de login - imagem 1">
-  <img src="img/preview2" width="48%" alt="Tela de login - imagem 2">
+  <img src="/img/preview.png" width="48%" alt="Tela de login - imagem 1">
+  <img src="/img/preview2.png" width="48%" alt="Tela de login - imagem 2">
 </p>
 
 ## 🛠️ Tecnologias utilizadas
